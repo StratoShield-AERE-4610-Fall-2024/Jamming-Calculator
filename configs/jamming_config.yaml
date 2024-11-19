@@ -1,0 +1,16 @@
+---
+mission:
+  key_area: 400000        # m^2
+  security_perimeter: 150 # m
+  active_uav: 2
+
+uav:
+  output_power: 10        # W
+  antenna_gain: 9         # dBi
+  azimuth_beamwidth: 60   # º
+  elevation_beamwidth: 60 # º
+
+target_transmitter:
+  output_power: 3 # dBW
+  antenna_gain: 3 # dBi
+...
